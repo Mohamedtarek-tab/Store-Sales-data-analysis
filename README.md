@@ -1,13 +1,13 @@
 # Store-Sales-data-analysis
 A data analysis project that explores store sales data using SQL and Python, including data cleaning, analysis, forecasting, and visualization dashboard creation.
 
-Project Name
+Project Name:
 Store Sales Dataset Analysis
 
-Project Idea
+Project Idea:
 This project focuses on analyzing a store sales dataset to understand sales performance and identify important trends. The project includes data cleaning, preprocessing, analysis of sales by different factors such as product category and region, and building forecasting models to predict future sales. Visualization dashboards will also be created to present the insights clearly for decision makers.
 
-Team Members
+Team Members:
 1.Mohamed Tarek Ahmed
 2.Feby Mikhael
 3.Ahmed Mohamed Ahmed
@@ -16,7 +16,7 @@ Team Members
 6.Gehan Hamdy
 
 
-Project Plan
+Project Plan:
 
 Week 1 – Research & Analysis
 Build the data model and perform data cleaning and preprocessing using SQL and Python.
@@ -30,22 +30,21 @@ Use Python libraries to analyze trends and create forecasting models for future 
 Week 4 – Visualization & Final Presentation
 Create a visualization dashboard and prepare the final presentation summarizing the project.
 
-Roles & Responsibilities
+Roles & Responsibilities:
 Data Collection and Cleaning – 
 Data Analysis – 
 Forecasting Model Development – 
 Visualization Dashboard Creation – 
 Final Report and Presentation – 
 
-KPIs (Key Performance Indicators)
+KPIs (Key Performance Indicators):
 • Accuracy of forecasting models
 • Clarity of data visualization dashboard
 • Quality of insights extracted from the dataset
 • Completion of project tasks within the timeline
 
-Instructor
-
----
+Instructor:
+Dina Ezzat
 
 Project Files
 You can find the full project files here:
